@@ -82,6 +82,8 @@ F:\commit-excel-merge-multiple\merge-excel> php merge_excel_data_in_multiple_she
 
 3- Now after finish the process you will see that all the excel file from "files" folder are combine into multiple sheet in "merge-data.xlsx" file at "F:\commit-excel-merge-multiple\merge-data.xlsx" file.
 
+4- For more detail you can also visit to our website http://phpsollutions.blogspot.com/2018/10/how-to-combine-multiple-excel-files-in.html
+
 
 ## Built With
 
