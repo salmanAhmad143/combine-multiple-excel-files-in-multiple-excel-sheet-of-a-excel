@@ -26,7 +26,7 @@ This is the main file which will be use to merge all these files data into the s
 
 ```
 $filePath =  $argv[1];
-$saving_name = "F:\commit-excel-merge-multiple\merge-data.xls";//change the name and location of file.
+$saving_name = "F:\commit-excel-merge-multiple\merge-data.xlsx";//change the name and location of file.
 require_once 'Classes/PHPExcel.php';
 require_once 'Classes/PHPExcel/Writer/Excel2007.php';
 require_once 'Classes/PHPExcel/IOFactory.php';
@@ -80,7 +80,7 @@ F:\commit-excel-merge-multiple\merge-excel> php merge_excel_data_in_multiple_she
 
 2- So first i go into this folder and then i run the "merge_excel_data_in_single_sheet.php" file by using above command.
 
-3- Now after finish the process you will see that all the excel file from "files" folder are combine into multiple sheet in "merge-data.xlsx" file. "F:\commit-excel-merge-multiple\mergeFileData.xlsx" file.
+3- Now after finish the process you will see that all the excel file from "files" folder are combine into multiple sheet in "merge-data.xlsx" file at "F:\commit-excel-merge-multiple\merge-data.xlsx" file.
 
 
 ## Built With
